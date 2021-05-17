@@ -1,0 +1,12 @@
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\obj\Debug\Kleinprojekt.csprojAssemblyReference.cache
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\obj\Debug\Kleinprojekt.Form1.resources
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\obj\Debug\Kleinprojekt.csproj.GenerateResource.cache
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\obj\Debug\Kleinprojekt.csproj.CoreCompileInputs.cache
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\obj\Debug\Kleinprojekt.exe
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\obj\Debug\Kleinprojekt.pdb
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\Kleinprojekt.exe.config
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\Kleinprojekt.exe
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\Kleinprojekt.pdb
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\bin\Debug\Kleinprojekt.exe.config
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\bin\Debug\Kleinprojekt.exe
+C:\Users\arber\source\repos\Kleinprojekt\Kleinprojekt\bin\Debug\Kleinprojekt.pdb
